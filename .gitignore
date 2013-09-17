@@ -1,6 +1,6 @@
 # Object files
 *.o
-
+#ti LOX
 # Libraries
 *.lib
 *.a
